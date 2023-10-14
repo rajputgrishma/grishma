@@ -1,0 +1,17 @@
+{
+  "name": "grishmarajput.com",
+  "version": "1.0.0",
+  "description": "Node project for grishmarajput.com",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack watch --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "author": "Oleksii Tsioma",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
