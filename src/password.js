@@ -1,3 +1,3 @@
-const password = '123456';
+const password = 'Design@UX23';
 
 export default password;
